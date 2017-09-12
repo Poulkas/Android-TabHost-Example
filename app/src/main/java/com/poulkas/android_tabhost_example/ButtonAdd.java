@@ -1,6 +1,6 @@
 /**
- * Created by Poulkas on 9/11/2017.
- */
+ * Created by Poulkas.
+ **/
 
 package com.poulkas.android_tabhost_example;
 

@@ -1,3 +1,7 @@
+/**
+ * Created by Poulkas.
+ **/
+
 package com.poulkas.android_tabhost_example;
 
 import android.support.v7.app.AppCompatActivity;
